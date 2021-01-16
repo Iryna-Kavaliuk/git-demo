@@ -1,2 +1,4 @@
 first line
 second line
+third line added from git UI
+fourth line added from git UI
