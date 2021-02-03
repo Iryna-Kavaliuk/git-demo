@@ -3,4 +3,4 @@ second line
 third line added from git UI
 fourth line added from git UI
 
-new line
+new couplet for feature
