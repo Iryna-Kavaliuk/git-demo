@@ -6,3 +6,7 @@ fourth line added from git UI
 new couplet for feature
 with several new rows
 ----------------------------
+
+one fore couplet for the feature
+with new rows again
++++++++
