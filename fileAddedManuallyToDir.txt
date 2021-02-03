@@ -4,3 +4,4 @@ third line added from git UI
 fourth line added from git UI
 
 new line
+new line for index updated
