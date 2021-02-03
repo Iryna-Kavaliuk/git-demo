@@ -10,3 +10,5 @@ new rows for feature branch
 ----
 
 conflicting line for master
+conflicting line for feature
+
